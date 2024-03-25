@@ -98,12 +98,12 @@ public class Patterns {
     }
     public static void main(String[] args)
     {
-        //pattern1();
-       // pattern2();
-        //pattern3();
-        //pattern4();
-       //pattern5();
-       //pattern6();
+        pattern1();
+        pattern2();
+        pattern3();
+        pattern4();
+       pattern5();
+       pattern6();
        pattern7();
     }
 }
