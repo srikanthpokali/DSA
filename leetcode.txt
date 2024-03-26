@@ -1,0 +1,21 @@
+maximum sub array:https://leetcode.com/submissions/detail/1209111313/
+product of self array:https://leetcode.com/submissions/detail/1209980852/
+length of last word:https://leetcode.com/submissions/detail/1213325178/
+find all duplicates in an array:https://leetcode.com/submissions/detail/1213317631/
+integer to roman:https://leetcode.com/submissions/detail/1213146069/
+palindrome number:https://leetcode.com/submissions/detail/1212704613/
+valid palindrome:https://leetcode.com/submissions/detail/1212618642/
+remove element:https://leetcode.com/submissions/detail/1212548885/
+find the difference:https://leetcode.com/submissions/detail/1208353233/
+roman to integer:https://leetcode.com/submissions/detail/1207518432/
+kth largest element in an array:https://leetcode.com/submissions/detail/1207497038/
+valid paranthesis:https://leetcode.com/submissions/detail/1206329033/
+Two sum:https://leetcode.com/submissions/detail/1193566437/
+best time to buy and sell stock:https://leetcode.com/submissions/detail/1192277727/
+moving zeroes:https://leetcode.com/submissions/detail/1192249863/
+matrix diagonal sum:https://leetcode.com/submissions/detail/1190517126/
+valid anagram:https://leetcode.com/submissions/detail/1189416947/
+single number:https://leetcode.com/submissions/detail/1188951563/
+sort an array:https://leetcode.com/submissions/detail/1188943193/
+majority element:https://leetcode.com/submissions/detail/1187947670/
+missing number:https://leetcode.com/submissions/detail/1185781460/
