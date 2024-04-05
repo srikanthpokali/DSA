@@ -1,3 +1,8 @@
+search in abinary search tree:https://leetcode.com/submissions/detail/1223861713/
+kth smallest element in BST:https://leetcode.com/submissions/detail/1223894191/
+Lowest common ancestor:https://leetcode.com/submissions/detail/1222127923/
+maximum depth of a binary tree:https://leetcode.com/submissions/detail/1219717216/
+count no of nodes in binary tree:https://leetcode.com/submissions/detail/1219714607/
 maximum sub array:https://leetcode.com/submissions/detail/1209111313/
 product of self array:https://leetcode.com/submissions/detail/1209980852/
 length of last word:https://leetcode.com/submissions/detail/1213325178/
