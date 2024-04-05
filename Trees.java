@@ -1,10 +1,5 @@
 package DSA;
 import java.util.*;
-
-import javax.swing.tree.TreeNode;
-
-//import javax.swing.tree.TreeNode;
-
 public class Trees {
 
   static class Node
